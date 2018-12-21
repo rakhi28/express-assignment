@@ -2,7 +2,7 @@
 
 ## Prerequisites installations
   * nodejs
-  * mongoDB
+  * mysql
   * git
   
   
@@ -54,4 +54,9 @@ Create a Pull request for the fork.
  
 ### unit test cases
  * All server side code should have unit test cases written in [Jasmin](https://jasmine.github.io)
+ 
+### working and how to run
+ * Use Postman app provided by Chrome to run all the methods. 
+ * There is no FrontEnd to this application. Complete Server-side implementation has been done. 
+ * `npm start` will start node server. Test cases not specified. 
  
