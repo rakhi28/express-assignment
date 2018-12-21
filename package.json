@@ -1,22 +1,19 @@
 {
-  "name": "express-assignment",
+  "name": "assignment_2",
   "version": "1.0.0",
-  "description": "Assignment to check the basic nodejs skills",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node approver.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chetandr/express-assignment.git"
-  },
-  "author": "Chetan Rane",
+  "author": "Sahana BG and Rakhi Agrawal",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chetandr/express-assignment/issues"
-  },
-  "homepage": "https://github.com/chetandr/express-assignment#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mysql": "^2.16.0"
   }
 }
