@@ -1,3 +1,10 @@
+# Main files
+ * approver.js : contains all API methods
+ * Util.js : contains all utilities and libraries
+ * config.js : webtoken generator secret
+ 
+
+
 # Instructions to complete the assigment.
 
 ## Prerequisites installations
@@ -23,7 +30,6 @@ Create a Pull request for the fork.
 > Note : Any PR to merge branch will not be entertained
 
 # Assignment List
-* [Service Status (Beginner)](./Assignment-1.md)
 * [Approval System (Intermediate)](./Assignment-2.md)
 
 # Instructions for the Assigment
@@ -59,4 +65,3 @@ Create a Pull request for the fork.
  * Use Postman app provided by Chrome to run all the methods. 
  * There is no FrontEnd to this application. Complete Server-side implementation has been done. 
  * `npm start` will start node server. Test cases not specified. 
- 
